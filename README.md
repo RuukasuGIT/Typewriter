@@ -5,6 +5,5 @@ Variables Used:
 
 string
 (The string that will be typeset.)
-
 delay
 (The delay between each character of the string being typeset.)
