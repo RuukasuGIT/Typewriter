@@ -1,7 +1,7 @@
 import time
-
 string = input("String: ")
 delay = float(input("Delay: "))
+
 
 def typewriter(x, z):
     y = ""
